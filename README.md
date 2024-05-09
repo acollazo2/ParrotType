@@ -1,2 +1,2 @@
-# TypingTest
+# ParrotType
 Typing Test
